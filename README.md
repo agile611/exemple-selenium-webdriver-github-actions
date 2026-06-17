@@ -140,7 +140,7 @@ pytest>=7.0.0             # Framework de testing
 
 1. **Headless Mode**: En GitHub Actions, els tests s'executen en mode headless (sense interfície gràfica)
 2. **Waits**: Els tests utilitzen WebDriverWait per a garantir que els elements estiguin disponibles
-3. **Gestió d'excepcions**: Els tests inclouen manejo robust d'excepcions per a evitar falls inesperats
+3. **Gestió d'excepcions**: Els tests inclouen gestió robusta d'excepcions per a evitar errors inesperats
 
 ## 🐛 Resolució de Problemes
 
