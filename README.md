@@ -167,15 +167,15 @@ choco install chromium
 
 ---
 
-## 📄 Licencia
+## 📄 Llicència
 
-Publicado por [Agile611](http://www.agile611.com/) bajo licencia
+Publicat per [Agile611](http://www.agile611.com/) sota llicència
 **Creative Commons Attribution-NonCommercial 4.0 International**.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-README escrito por [Guillem Hernández Sola](https://www.linkedin.com/in/guillemhs/).
+README escrit per [Guillem Hernández Sola](https://www.linkedin.com/in/guillemhs/).
 
-**Contacto:**
+**Contacte:**
 - 🌐 [agile611.com](http://www.agile611.com/)
 - 📍 Carrer Laureà Miró 309, 08950 Esplugues de Llobregat (Barcelona)
