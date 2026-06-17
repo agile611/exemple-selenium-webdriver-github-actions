@@ -105,7 +105,6 @@ pytest yahootest.py test_yahoo_search.py -v --tb=short
 Els tests s'executen automàticament quan:
 - Es fa push a la branca `main`
 - S'obre un pull request a la branca `main`
-- Diàriament a les 00:00 UTC (per a monitoratge continu)
 
 ### Configuració
 
