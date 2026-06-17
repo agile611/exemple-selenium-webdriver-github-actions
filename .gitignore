@@ -1,0 +1,78 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pip/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+
+# VS Code
+.vscode/
+.vscode-test/
+*.code-workspace
+.vscode/launch.json
+.vscode/settings.json
+.vscode/extensions/
+
+# GitHub Actions
+.github/workflows/.env
+.github/workflows/*.log
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+$RECYCLE.BIN/
+
+# IDE
+.idea/
+.project
+.settings/
+*.sublime-workspace
+
+# OS specific
+.env
+.env.local
+*.log
