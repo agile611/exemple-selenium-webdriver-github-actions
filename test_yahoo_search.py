@@ -68,8 +68,8 @@ class TestYahooSearch(unittest.TestCase):
         # Click on search box, clear it, and enter search term
         search_box.click()
         search_box.clear()
-        search_box.send_keys("pizza hawaiana")
-        print("✓ Search term entered: 'pizza hawaiana'")
+        search_box.send_keys("hawaiian pizza")
+        print("✓ Search term entered: 'hawaiian pizza'")
         
         # Submit the search
         search_box.submit()
